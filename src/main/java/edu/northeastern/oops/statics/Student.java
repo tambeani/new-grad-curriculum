@@ -26,5 +26,5 @@ public class Student {
     }
 
     // TODO: Add a function to reset the total number of students to 0.
-    public static void resetTotalStudents(){}
+    public static void resetTotalStudents(){ totalStudents = 0;}
 }
